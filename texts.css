@@ -1,0 +1,32 @@
+#title {
+    background-color: #f24b59;
+    color: white;
+    border: 1px solid white;
+    font-family: serif;
+}
+
+.tag { 
+    font-size: smaller;
+    position: relative;
+    top: 5px;
+    left: -40%;
+    color: #f24b59;
+    font-family: serif;
+}
+
+h2,h3,h4,h5,h6 {
+    margin-top: 12px;
+    margin-bottom: 5px;
+    line-height: 10px;
+    font-family: serif;
+    color: grey;
+}
+
+
+figcaption {
+    position: relative;
+    top: -55px;
+    background-color: #f24b59;
+    color: white;
+    font-family: serif;
+}

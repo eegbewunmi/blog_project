@@ -1,0 +1,26 @@
+@import "media_q.css";
+@import "all_posts.css";
+@import "texts.css";
+
+.header {
+    display:flex;
+    flex-direction: row;
+    height: 40px;
+    align-items: center;
+}
+
+.box {
+    display: flex;
+    flex-direction:row;
+    margin: 30px;
+    width:220px;
+    justify-content: space-between;
+   }
+
+#search {
+    position: absolute;
+    left: 73%;
+    width: 25%;
+    border: 0.5px solid grey;
+}
+
